@@ -6,6 +6,9 @@ browseVignettes("ggplot2")
 #R Markdown!!!
 install.packages("rmarkdown")
 
+#Factor Variables
+#https://www.coursera.org/learn/r-programming/lecture/Eidkq/data-types-factors
+
 #How do we use R to tackle big data?
 #https://rviews.rstudio.com/2019/07/17/3-big-data-strategies-for-r/
 
